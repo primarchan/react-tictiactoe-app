@@ -1,3 +1,13 @@
+# REACT-TICTACTOE-APP
+
+## Installation
+
+- `npx create-react-app {프로젝트명}` or `npx create-react-app ./`
+- `npm run start`
+
+<details>
+<summary>접기 / 펼치기</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
