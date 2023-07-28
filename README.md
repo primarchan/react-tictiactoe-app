@@ -4,6 +4,9 @@
 
 - `npx create-react-app {프로젝트명}` or `npx create-react-app ./`
 - `npm run start`
+- `npm install gh-pages --save-dev`
+- `npm run build`
+- `npm run deploy`
 
 <details>
 <summary>접기 / 펼치기</summary>
